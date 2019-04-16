@@ -1,0 +1,18 @@
+[
+    {
+        listCategory: '',
+        cardlist: [
+        ]
+    },
+    {
+        listCategory: '',
+        cardlist: [
+            {text: ''}
+            {text: ''}
+        ]
+    },
+    {
+        listCategory: '',
+        cardlist: []
+    },
+]
